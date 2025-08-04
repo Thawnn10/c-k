@@ -1,0 +1,1 @@
+// Schema MongoDB cho người chơi

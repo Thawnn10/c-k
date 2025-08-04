@@ -1,0 +1,1 @@
+// Schema MongoDB cho lịch sử trận đấu
